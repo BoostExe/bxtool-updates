@@ -1,9 +1,9 @@
 {
     "version": "5.0.36",
-    "pub_date": "2026-10-21T21:41:32Z",
+    "pub_date": "2026-10-21T22:38:12Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNkh3N1U5TnZKanF4TFQvcGRtQWVvWTRGeDBvWXZEaklOU1FycUYwMGhFZlA3N1JTMU5zTGcvL2hBMXVZUXcrOHcvSkx3Zk9jUXI5QU96MExaN3N0Qmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE5MjA1CWZpbGU6QlhUb29sXzUuMC4zNl94NjQtc2V0dXAuZXhlCm9Gbm1DSmkybHRGKzE2aE9IU3lDeVNuM09OVHMwMVczU2c5and0cnQrVUhsZHBQazRvbnFEWVljSlM0Q3RFR0poKytQMm5QOTM2Q2RVYk02VkdFdENBPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNkRFTURIbng2TytaNjNzZE5jV2lvZ0UrU2dwK0c5akdkYUZxUTRlWjl0WllHajNyV1dFS0dHNHJhSmpRa3FMQzZIZEpKcVBCeDYvc2Z6cHRVZllZalFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIyMjUwCWZpbGU6QlhUb29sXzUuMC4zNl94NjQtc2V0dXAuZXhlCmlxYyt5Wld2QUpJdmd4NVE5TDYzRzU1anNPVDBnMmkvd2UrYWdoWmgyRm9PN1lXa3FPRE9ncUo2U3RaNkllajJpMUptWFhJR0wvWEhITkFSOWhrekFnPT0K",
             "url": "https://github.com/BoostExe/bxtool-updates/releases/download/5.0.36/BXTool_5.0.36_x64-setup.exe"
         }
     }
