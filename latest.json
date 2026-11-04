@@ -1,10 +1,10 @@
 {
-    "version": "5.0.39",
-    "pub_date": "2026-11-02T13:59:33Z",
+    "version": "5.0.40",
+    "pub_date": "2026-11-04T21:45:23Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNkx0ZnhVaVRvdjBFT280YWhLOGgvcWR2bUJ0bFBtbFhVSGhPc2YxV2IrOE9XTjVadDNqRjAwVEwyRmZhdHg4akdLOTRtVlE1dzRRMmFKTEtmL1h1RmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI4NjE3CWZpbGU6QlhUb29sXzUuMC4zOV94NjQtc2V0dXAuZXhlCmNrUXU3dFg1Ylgva1FGV21BRCtqNGMvODUxNkdSSGFta216b2VzYnQ1YXZCRGdJSEhSdGQwYklXV1JiVEc4VmVpajE1TTU1SXZNYmpSNlVQTlRhZkJnPT0K",
-            "url": "https://github.com/BoostExe/bxtool-updates/releases/download/5.0.39/BXTool_5.0.39_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNkxQV0gydUc4OU9Bd1BUVWNKdWpTckxJc0RjZ0ViODhUaTVyS0g1ZmEzOWhiZlRSTTFkOFZQcU81d05KSUFZOGozNTdJYVY2TURQVk1WN3NkVjg0c2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMxNzQwCWZpbGU6QlhUb29sXzUuMC40MF94NjQtc2V0dXAuZXhlCkR0ZUFHYStRV25FMW9SckE1VnBRS0ZXNDZuRzVPUElNclBZL1VabWFleFpYWjVYSVo5N2k3MlJHWWNiT0VjLy9PRHZndklYMjhyRDUwTmRaUy9TN0FRPT0K",
+            "url": "https://github.com/BoostExe/bxtool-updates/releases/download/5.0.40/BXTool_5.0.40_x64-setup.exe"
         }
     }
 }
